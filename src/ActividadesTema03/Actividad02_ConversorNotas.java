@@ -49,7 +49,7 @@ public class Actividad02_ConversorNotas {
                 break;
         }
         
-        System.out.println("Tu nota es: "+nota);
+        System.out.println("Tu nota total es: "+nota);
     }
     
 }
